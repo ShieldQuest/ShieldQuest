@@ -3,6 +3,8 @@
 I'm a self-taught developer on a mission to learn Python and explore the world of code.  
 No fancy titles—just passion, persistence, and curiosity.
 
+- ![ShieldQuest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShieldQuest&show_icons=true&theme=tokyonight)
+
 ## 🚀 Current Goals
 
 - Build cool Python projects
@@ -15,7 +17,6 @@ No fancy titles—just passion, persistence, and curiosity.
 - Visual Studio Code
 - Git & GitHub
 - Markdown
-- ![ShieldQuest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShieldQuest&show_icons=true&theme=tokyonight)
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShieldQuest&layout=compact&theme=tokyonight)
 
 ## 📂 Featured Projects
