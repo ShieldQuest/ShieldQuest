@@ -15,6 +15,8 @@ No fancy titles—just passion, persistence, and curiosity.
 - Visual Studio Code
 - Git & GitHub
 - Markdown
+- ![ShieldQuest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShieldQuest&show_icons=true&theme=tokyonight)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShieldQuest&layout=compact&theme=tokyonight)
 
 ## 📂 Featured Projects
 
