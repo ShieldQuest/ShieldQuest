@@ -1,13 +1,13 @@
 <!-- 🔰 Banner --><p align="center">
 <p align="center">
-  <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/ShieldQuest%20Banner.png?raw=true" width="900" />
+  <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/ShieldQuest%20Banner.png?raw=true" width="880" />
 </p>
 
 
 <!-- 🧑‍💻 Intro -->
 <table>
   <tr>
-    <td width="220" align="center">
+    <td width="240" align="center">
       <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/QuestAvatar.jpeg?raw=true" width="180" />
     </td>
     <td>
