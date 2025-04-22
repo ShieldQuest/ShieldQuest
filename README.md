@@ -11,12 +11,21 @@ No fancy titles—just passion, persistence, and curiosity.
 
 - ![ShieldQuest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShieldQuest&show_icons=true&theme=tokyonight)
 
+
 ## 🚀 Current Goals
 
-- Build cool Python projects
-- Learn data analysis and automation
-- Become confident in Git & GitHub
-- [![GitHub Streak](https://streak-stats.demolab.com?user=ShieldQuest&theme=tokyonight)](https://git.io/streak-stats)
+I'm currently focused on developing my Python skills and applying them to financial services, data handling, and automation.
+
+- 💻 Build Python projects that solve real-world problems  
+- 📊 Learn data analysis and financial automation tools  
+- 🔧 Master Git & GitHub for better workflow and collaboration  
+- 🧠 Grow as a self-taught developer in the world of tech & finance
+
+
+## 📈 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShieldQuest&theme=tokyonight)](https://git.io/streak-stats)
+
 
 ## 🔧 Tools & Skills
 
