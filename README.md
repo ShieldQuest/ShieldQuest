@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td width="240" align="center">
-      <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/QuestAvatar.jpeg?raw=true" width="180" />
+      <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/QuestAvatar.jpeg?raw=true" width="195" />
     </td>
     <td>
       <h1>Hey there, I'm Quest! 👋</h1>
@@ -38,10 +38,10 @@ I'm currently focused on developing my Python skills and applying them to financ
 
 
 ## 📂 Featured Projects
-### [PythonPractice](https://github.com/ShieldQuest/PythonPractice)  
-> 📘 My first Python project where I’m getting hands-on with the basics.
-### [Python_Financial_Services](https://github.com/ShieldQuest/Python_Financial_Services)  
-> 💰 A collection of Python tools and calculators focused on finance-related tasks and concepts.
+- ### [PythonPractice](https://github.com/ShieldQuest/PythonPractice)  
+- > 📘 My first Python project where I’m getting hands-on with the basics.
+- ### [Python_Financial_Services](https://github.com/ShieldQuest/Python_Financial_Services)  
+- > 💰 A collection of Python tools and calculators focused on finance-related tasks and concepts.
 
 
 ---
@@ -54,10 +54,6 @@ I'm currently focused on developing my Python skills and applying them to financ
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ShieldQuest&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShieldQuest&layout=compact&theme=tokyonight" />
 </p>
 
 
@@ -75,7 +71,9 @@ I'm currently focused on developing my Python skills and applying them to financ
 
 ---
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShieldQuest&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShieldQuest&layout=compact&theme=tokyonight" />
+</p>
 
 _“Learning to code is like learning to speak to the machine—and I’m just getting started.”_
 
