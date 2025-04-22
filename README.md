@@ -1,16 +1,15 @@
+<!-- 🔰 Banner -->
 <p align="center">
-  <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/ChatGPT%20Image%20Apr%2022,%202025%20at%2002_34_11%20AM.png?raw=true" width="100%" style="max-height:180px;" />
+  <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/ChatGPT%20Image%20Apr%2022,%202025%20at%2002_34_11%20AM.png?raw=true" width="100%" style="max-height:199px;" />
 </p>
 
-
-
+<!-- 🧑‍💻 Intro -->
 # Hey there, I'm Quest! 👋
 
-I'm a self-taught developer focused on mastering Python programing and venturing in the world of coding.  
-No fancy titles—just passion, persistence, and curiosity.
+I'm learning to code with a passion in Python and explore the world of code.  
+No fancy labels, just curiosity, and automation.
 
-- ![ShieldQuest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShieldQuest&show_icons=true&theme=tokyonight)
-
+---
 
 ## 🚀 Current Goals
 
@@ -21,20 +20,39 @@ I'm currently focused on developing my Python skills and applying them to financ
 - Master Git & GitHub for better workflow and collaboration  
 - Grow as a self-taught developer in the world of tech & finance
 
+---
 
-## 📈 GitHub Streak
+## 📈 GitHub Stats
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=ShieldQuest&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShieldQuest&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShieldQuest&theme=tokyonight" />
+</p>
 
-## 🔧 Tools & Skills
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShieldQuest&layout=compact&theme=tokyonight" />
+</p>
 
-- Visual Studio Code
-- Git & GitHub
-- Markdown
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
 
+## 👤 About Me
+
+<p align="center">
+  <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/YOUR-AVATAR.png?raw=true" width="160" />
+</p>
+
+Hi! I’m Quest — a self-taught developer learning Python with a focus on building tools in finance and automation.
+
+- Always curious, always growing  
+- Passionate about purpose-driven code  
+- Here to build things that matter
+- I believe learning is a superpower
+- I’m thankful every step of the way 
+
+---
 
 ## 📂 Featured Projects
 ### [PythonPractice](https://github.com/ShieldQuest/PythonPractice)  
@@ -43,11 +61,11 @@ I'm currently focused on developing my Python skills and applying them to financ
 > 💰 A collection of Python tools and calculators focused on finance-related tasks and concepts.
 
 
-## 💡 Fun Facts
+## 🔧 Tools & Skills
 
-- I'm based in Florida
-- I believe learning is a superpower
-- I’m thankful every step of the way
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ## 📬 Connect with Me
 
