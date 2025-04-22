@@ -24,7 +24,7 @@ I'm currently focused on developing my Python skills and applying them to financ
 
 ## 📈 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ShieldQuest&theme=tokyonight)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ShieldQuest&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ## 🔧 Tools & Skills
@@ -55,7 +55,7 @@ I'm currently focused on developing my Python skills and applying them to financ
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShieldQuest&layout=compact&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShieldQuest&layout=compact&theme=tokyonight)
 
 _“Learning to code is like learning to speak to the machine—and I’m just getting started.”_
 
