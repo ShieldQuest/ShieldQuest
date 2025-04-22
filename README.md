@@ -10,15 +10,14 @@ No fancy titles—just passion, persistence, and curiosity.
 - Build cool Python projects
 - Learn data analysis and automation
 - Become confident in Git & GitHub
-- - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShieldQuest&layout=compact&theme=tokyonight)
 
 ## 🔧 Tools & Skills
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- Visual Studio Code ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- Visual Studio Code
 - Git & GitHub
 - Markdown
-
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ## 📂 Featured Projects
@@ -39,3 +38,5 @@ No fancy titles—just passion, persistence, and curiosity.
 ---
 
 _“Learning to code is like learning to speak to the machine—and I’m just getting started.”_
+ - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShieldQuest&layout=compact&theme=tokyonight)
+
