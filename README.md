@@ -26,10 +26,11 @@ No fancy titles—just passion, persistence, and curiosity.
 - ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-### 🛡️ PythonPractice
-> 📘 My first Python project exploring basic concepts and user input.
-
-🔗 [View Project](https://github.com/ShieldQuest/PythonPractice)
+## 📂 Featured Projects
+### [PythonPractice](https://github.com/ShieldQuest/PythonPractice)  
+> 📘 My first Python project where I’m getting hands-on with the basics.
+### [Python_Financial_Services](https://github.com/ShieldQuest/Python_Financial_Services)  
+> 💰 A collection of Python tools and calculators focused on finance-related tasks and concepts.
 
 
 ## 💡 Fun Facts
