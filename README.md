@@ -4,19 +4,24 @@
 </p>
 
 <!-- 🧑‍💻 Intro -->
-# Hey there, I'm Quest! 👋
-
-Hi! I’m Quest — a self-taught developer learning Python with a focus on building tools in finance and automation.
-
-- Always curious, always growing  
-- Passionate about purpose-driven code  
-- Here to build things that matter
-- I believe learning is a superpower
-- I’m thankful every step of the way 
-
-<p float="left">
-  <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/Animated%20Avatar%20Medium.jpeg?raw=true" width="150" style="border-radius: 50%;" />
-</p>
+<table>
+  <tr>
+    <td width="160">
+      <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/Animated%20Avatar%20Medium.jpeg?raw=true" width="150" style="border-radius: 50%;" />
+    </td>
+    <td>
+      <h1>Hey there, I'm Quest! 👋</h1>
+      <p>Hi! I’m Quest — a self-taught developer learning Python with a focus on building tools in finance and automation.</p>
+      <ul>
+        <li>Always curious, always growing</li>
+        <li>Passionate about purpose-driven code</li>
+        <li>Here to build things that matter</li>
+        <li>I believe learning is a superpower</li>
+        <li>I’m thankful every step of the way</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
