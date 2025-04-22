@@ -1,4 +1,7 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<p align="center">
+  <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/ChatGPT%20Image%20Apr%2022,%202025%20at%2002_34_11%20AM.png?raw=true" width="100%" style="max-height:180px;" />
+</p>
+
 
 # Hey there, I'm Quest! 👋
 
