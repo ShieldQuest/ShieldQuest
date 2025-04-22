@@ -52,13 +52,6 @@ I'm currently focused on developing my Python skills and applying them to financ
   <img src="https://github-readme-stats.vercel.app/api?username=ShieldQuest&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ShieldQuest">
-    <img src="https://streak-stats.demolab.com?user=ShieldQuest&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-
 
 ---
 
