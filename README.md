@@ -6,7 +6,7 @@
 
 # Hey there, I'm Quest! 👋
 
-I'm a self-taught developer on a mission to learn Python and explore the world of code.  
+I'm a self-taught developer focused on mastering Python programing and venturing in the world of coding.  
 No fancy titles—just passion, persistence, and curiosity.
 
 - ![ShieldQuest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShieldQuest&show_icons=true&theme=tokyonight)
@@ -16,10 +16,10 @@ No fancy titles—just passion, persistence, and curiosity.
 
 I'm currently focused on developing my Python skills and applying them to financial services, data handling, and automation.
 
-- 💻 Build Python projects that solve real-world problems  
-- 📊 Learn data analysis and financial automation tools  
-- 🔧 Master Git & GitHub for better workflow and collaboration  
-- 🧠 Grow as a self-taught developer in the world of tech & finance
+- Build Python projects that solve real-world problems  
+- Learn data analysis and financial automation tools  
+- Master Git & GitHub for better workflow and collaboration  
+- Grow as a self-taught developer in the world of tech & finance
 
 
 ## 📈 GitHub Streak
@@ -55,6 +55,8 @@ I'm currently focused on developing my Python skills and applying them to financ
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShieldQuest&layout=compact&theme=tokyonight)
+
 _“Learning to code is like learning to speak to the machine—and I’m just getting started.”_
- - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShieldQuest&layout=compact&theme=tokyonight)
+
 
