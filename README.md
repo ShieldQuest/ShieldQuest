@@ -6,8 +6,18 @@
 <!-- 🧑‍💻 Intro -->
 # Hey there, I'm Quest! 👋
 
-I'm learning to code with a passion in Python and explore the world of code.  
-No fancy labels, just curiosity, and automation.
+Hi! I’m Quest — a self-taught developer learning Python with a focus on building tools in finance and automation.
+
+- Always curious, always growing  
+- Passionate about purpose-driven code  
+- Here to build things that matter
+- I believe learning is a superpower
+- I’m thankful every step of the way 
+
+<p float="left">
+  <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/YOUR-AVATAR.png?raw=true" width="150" style="border-radius: 50%;" />
+</p>
+
 
 ---
 
@@ -19,6 +29,14 @@ I'm currently focused on developing my Python skills and applying them to financ
 - Learn data analysis and financial automation tools  
 - Master Git & GitHub for better workflow and collaboration  
 - Grow as a self-taught developer in the world of tech & finance
+
+
+## 📂 Featured Projects
+### [PythonPractice](https://github.com/ShieldQuest/PythonPractice)  
+> 📘 My first Python project where I’m getting hands-on with the basics.
+### [Python_Financial_Services](https://github.com/ShieldQuest/Python_Financial_Services)  
+> 💰 A collection of Python tools and calculators focused on finance-related tasks and concepts.
+
 
 ---
 
@@ -36,31 +54,8 @@ I'm currently focused on developing my Python skills and applying them to financ
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShieldQuest&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 👤 About Me
-
-<p align="center">
-  <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/Animated%20Avatar%20Medium.jpeg?raw=true" width="160" />
-</p>
-
-
-Hi! I’m Quest — a self-taught developer learning Python with a focus on building tools in finance and automation.
-
-- Always curious, always growing  
-- Passionate about purpose-driven code  
-- Here to build things that matter
-- I believe learning is a superpower
-- I’m thankful every step of the way 
 
 ---
-
-## 📂 Featured Projects
-### [PythonPractice](https://github.com/ShieldQuest/PythonPractice)  
-> 📘 My first Python project where I’m getting hands-on with the basics.
-### [Python_Financial_Services](https://github.com/ShieldQuest/Python_Financial_Services)  
-> 💰 A collection of Python tools and calculators focused on finance-related tasks and concepts.
-
 
 ## 🔧 Tools & Skills
 
