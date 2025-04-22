@@ -7,8 +7,8 @@
 <!-- 🧑‍💻 Intro -->
 <table>
   <tr>
-    <td width="160">
-      <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/QuestAvatar.jpeg?raw=true" width="150" style="border-radius: 50%;" />
+    <td width="200" align="center">
+      <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/Your_Avatar_Image.png?raw=true" width="180" />
     </td>
     <td>
       <h1>Hey there, I'm Quest! 👋</h1>
@@ -23,6 +23,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
