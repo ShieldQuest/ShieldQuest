@@ -41,8 +41,9 @@ I'm currently focused on developing my Python skills and applying them to financ
 ## 👤 About Me
 
 <p align="center">
-  <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/YOUR-AVATAR.png?raw=true" width="160" />
+  <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/Animated%20Avatar%20Medium.jpeg?raw=true" width="160" />
 </p>
+
 
 Hi! I’m Quest — a self-taught developer learning Python with a focus on building tools in finance and automation.
 
