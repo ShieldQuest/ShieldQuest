@@ -53,8 +53,11 @@ I'm currently focused on developing my Python skills and applying them to financ
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShieldQuest&theme=tokyonight" />
+  <a href="https://github.com/ShieldQuest">
+    <img src="https://streak-stats.demolab.com?user=ShieldQuest&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
+
 
 
 ---
