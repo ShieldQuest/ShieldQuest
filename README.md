@@ -3,11 +3,12 @@
   <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/Banner.png?raw=true" width="100%" style="max-height:199px;" />
 </p>
 
+
 <!-- 🧑‍💻 Intro -->
 <table>
   <tr>
     <td width="160">
-      <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/Animated%20Avatar%20Medium.jpeg?raw=true" width="150" style="border-radius: 50%;" />
+      <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/QuestAvatar.jpeg?raw=true" width="150" style="border-radius: 50%;" />
     </td>
     <td>
       <h1>Hey there, I'm Quest! 👋</h1>
