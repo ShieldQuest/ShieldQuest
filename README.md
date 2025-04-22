@@ -14,12 +14,11 @@ No fancy titles—just passion, persistence, and curiosity.
 
 ## 🔧 Tools & Skills
 
-- Python
-- Visual Studio Code
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- Visual Studio Code ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - Git & GitHub
 - Markdown
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 
 ## 📂 Featured Projects
