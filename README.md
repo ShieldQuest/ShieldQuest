@@ -1,6 +1,6 @@
 <!-- 🔰 Banner -->
 <p align="center">
-  <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/ChatGPT%20Image%20Apr%2022,%202025%20at%2002_34_11%20AM.png?raw=true" width="100%" style="max-height:199px;" />
+  <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/Banner.png?raw=true" width="100%" style="max-height:199px;" />
 </p>
 
 <!-- 🧑‍💻 Intro -->
