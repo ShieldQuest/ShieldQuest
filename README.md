@@ -52,6 +52,9 @@ I'm currently focused on developing my Python skills and applying them to financ
   <img src="https://github-readme-stats.vercel.app/api?username=ShieldQuest&show_icons=true&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShieldQuest&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -67,9 +70,6 @@ I'm currently focused on developing my Python skills and applying them to financ
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShieldQuest&layout=compact&theme=tokyonight" />
-</p>
 
 _“Learning to code is like learning to speak to the machine—and I’m just getting started.”_
 
