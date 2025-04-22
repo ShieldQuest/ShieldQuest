@@ -1,6 +1,6 @@
 <!-- 🔰 Banner --><p align="center">
-  <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/ShieldQuest%20Banner.png?raw=true" <img src="..." height="150" />
- />
+<p align="center">
+  <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/ShieldQuest%20Banner.png?raw=true" height="150" />
 </p>
 
 
