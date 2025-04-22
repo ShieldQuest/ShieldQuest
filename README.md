@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
 # Hey there, I'm Quest! 👋
 
 I'm a self-taught developer on a mission to learn Python and explore the world of code.  
@@ -10,6 +12,7 @@ No fancy titles—just passion, persistence, and curiosity.
 - Build cool Python projects
 - Learn data analysis and automation
 - Become confident in Git & GitHub
+- [![GitHub Streak](https://streak-stats.demolab.com?user=ShieldQuest&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 🔧 Tools & Skills
 
@@ -20,10 +23,11 @@ No fancy titles—just passion, persistence, and curiosity.
 - ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## 📂 Featured Projects
+### 🛡️ PythonPractice
+> 📘 My first Python project exploring basic concepts and user input.
 
-### [PythonPractice](https://github.com/ShieldQuest/PythonPractice)
-> My first Python project where I’m getting hands-on with the basics.
+🔗 [View Project](https://github.com/ShieldQuest/PythonPractice)
+
 
 ## 💡 Fun Facts
 
