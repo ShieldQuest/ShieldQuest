@@ -15,9 +15,8 @@ Hi! I’m Quest — a self-taught developer learning Python with a focus on buil
 - I’m thankful every step of the way 
 
 <p float="left">
-  <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/YOUR-AVATAR.png?raw=true" width="150" style="border-radius: 50%;" />
+  <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/Animated%20Avatar%20Medium.jpeg?raw=true" width="150" style="border-radius: 50%;" />
 </p>
-
 
 ---
 
