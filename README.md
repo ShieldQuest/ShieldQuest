@@ -7,7 +7,7 @@
 <!-- 🧑‍💻 Intro -->
 <table>
   <tr>
-    <td width="200" align="center">
+    <td width="220" align="center">
       <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/QuestAvatar.jpeg?raw=true" width="180" />
     </td>
     <td>
