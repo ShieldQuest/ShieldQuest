@@ -1,76 +1,45 @@
-<!-- 🔰 Banner --><p align="center">
+<!-- 🦸 Banner -->
 <p align="center">
   <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/ShieldQuest%20Banner.png?raw=true" width="880" />
 </p>
 
+---
 
-<!-- 🧑‍💻 Intro -->
-<table>
-  <tr>
-    <td width="240" align="center">
-      <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/QuestAvatar.jpeg?raw=true" width="195" />
-    </td>
-    <td>
-      <h1>Hey there, I'm Quest! 👋</h1>
-      <p>Hi! I’m Quest — a self-taught developer learning Python with a focus on building tools in finance and automation.</p>
-      <ul>
-        <li>Always curious, always growing</li>
-        <li>Passionate about purpose-driven code</li>
-        <li>Here to build things that matter</li>
-        <li>I believe learning is a superpower</li>
-        <li>I’m thankful every step of the way</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+# Robert Alvarez  
+**Aspiring FinTech & IT Professional**
 
+Welcome! I'm an IT student at Florida State College at Jacksonville, bringing over five years of professional experience in the banking industry. My academic journey explores the intersections of information technology, finance, and innovation.
 
 ---
 
-## 🚀 Current Goals
+## 🎓 Current Focus
 
-I'm currently focused on developing my Python skills and applying them to financial services, data handling, and automation.
+- Pursuing CompTIA certifications and advanced IT coursework at FSCJ
+- Exploring emerging trends in AI, FinTech, and cybersecurity
+- Developing projects that connect data, automation, and business strategy
 
-- Build Python projects that solve real-world problems  
-- Learn data analysis and financial automation tools  
-- Master Git & GitHub for better workflow and collaboration  
-- Grow as a self-taught developer in the world of tech & finance
-
+---
 
 ## 📂 Featured Projects
-- ### [PythonPractice](https://github.com/ShieldQuest/PythonPractice)  
-- > 📘 My first Python project where I’m getting hands-on with the basics.
-- ### [Python_Financial_Services](https://github.com/ShieldQuest/Python_Financial_Services)  
-- > 💰 A collection of Python tools and calculators focused on finance-related tasks and concepts.
 
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShieldQuest&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShieldQuest&layout=compact&theme=tokyonight" />
-</p>
+- [PythonPractice](https://github.com/ShieldQuest/PythonPractice) — Early academic exercises and programming explorations
+- [Python_Financial_Services](https://github.com/ShieldQuest/Python_Financial_Services) — Foundational tools for finance automation and analysis
+- More projects coming soon—expanding into financial modeling, programming, and automation
 
 ---
 
-## 🔧 Tools & Skills
+## 🧭 About Me
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- Motivated self-learner with a commitment to continuous growth
+- Analytical thinker driven by curiosity and practical impact
+- Focused on bridging technology with strategic business value
 
+---
 
-## 📬 Connect with Me
+## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Frobrt--alv-blue?logo=linkedin)](https://linkedin.com/in/robrt-alv)
 
 ---
 
-
-_“Learning to code is like learning to speak to the machine—and I’m just getting started.”_
-
-
+*"Learning to code opens new ways of thinking and creating—and I'm just getting started."*
