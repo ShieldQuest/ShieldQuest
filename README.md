@@ -42,4 +42,4 @@ Welcome! I'm an IT student at Florida State College at Jacksonville, bringing ov
 
 ---
 
-*"Learning to code opens new ways of thinking and creating—and I'm just getting started."*
+*"Learning to code opens new ways of thinking and creating. And I'm just getting started."*
