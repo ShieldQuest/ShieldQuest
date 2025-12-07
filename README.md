@@ -1,11 +1,10 @@
 <!-- 🦸 Banner -->
 <p align="center">
-  <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/Banner%20-%20Dec%207%2C%202025%2C%2001_44_27%20AM.png?raw=true" width="880" />
+  <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/Banner%20-%20Dec%207%2C%202025%2C%2001_44_27%20AM.png?raw=true" width="700" />
 </p>
 
 ---
 
-# Robert Alvarez
 **FinTech & IT Student**
 
 I'm an IT student at Florida State College at Jacksonville with five years of experience in the banking industry. I'm interested in how technology, finance, and data come together to solve real problems and improve day-to-day operations.
