@@ -5,35 +5,41 @@
 
 ---
 
-**FinTech & IT Student**
-
-I'm an IT student at Florida State College at Jacksonville with five years of experience in the banking industry. I'm interested in how technology, finance, and data come together to solve real problems and improve day-to-day operations.
+FinTech and IT student exploring how technology, finance, and data intersect to solve practical problems.
 
 ---
 
 ## 📚 Current Focus
 
-- Working toward CompTIA certifications and completing advanced IT coursework
-- Building skills in Python, Java, SQL, and automation
-- Exploring FinTech trends, cybersecurity basics, and practical uses of AI
-- Creating projects that connect financial processes with technology
+- Advancing through CompTIA certifications and college IT coursework
+- Building skills in Java, Python, SQL, and basic automation
+- Developing secure and efficient programming habits
+- Creating small financial tools and OOP-based applications
+- Organizing my work as I prepare larger projects for publication
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Skills & Tools
 
-- [PythonPractice](https://github.com/ShieldQuest/PythonPractice) – Early programming exercises and fundamentals
-- [Python_Financial_Services](https://github.com/ShieldQuest/Python_Financial_Services) – Intro tools for financial automation and analysis
-- More projects coming soon, including financial modeling, automation scripts, and Java coursework
+**Languages:** Java, Python, SQL  
+**Tools:** Eclipse, VS Code, Git, GitHub  
+**Interests:** FinTech automation, data analysis, backend logic, and financial decision support
+
+---
+
+## 📂 Projects
+
+I'm learning and experimenting with different technologies.  
+As my skills grow and my work becomes more structured, I plan to publish selected projects that reflect my progress and development style.
 
 ---
 
 ## 🧭 About Me
 
-- Self-motivated learner dedicated to continuous improvement
-- Analytical thinker shaped by hands-on banking experience
-- Enjoys breaking down complex problems into clear, workable steps
-- Interested in using technology to support smart business decisions
+- IT student transitioning from five years in banking
+- Analytical thinker with hands-on financial experience
+- Skilled at breaking down real problems into clear, workable steps
+- Motivated to use technology to improve financial decision-making
 
 ---
 
