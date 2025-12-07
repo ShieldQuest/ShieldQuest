@@ -5,34 +5,36 @@
 
 ---
 
-# Robert Alvarez  
-**Aspiring FinTech & IT Professional**
+# Robert Alvarez
+**FinTech & IT Student**
 
-Welcome! I'm an IT student at Florida State College at Jacksonville, bringing over five years of professional experience in the banking industry. My academic journey explores the intersections of information technology, finance, and innovation.
+I'm an IT student at Florida State College at Jacksonville with five years of experience in the banking industry. I'm interested in how technology, finance, and data come together to solve real problems and improve day-to-day operations.
 
 ---
 
-## 🎓 Current Focus
+## 📚 Current Focus
 
-- Pursuing CompTIA certifications and advanced IT coursework at FSCJ
-- Exploring emerging trends in AI, FinTech, and cybersecurity
-- Developing projects that connect data, automation, and business strategy
+- Working toward CompTIA certifications and completing advanced IT coursework
+- Building skills in Python, Java, SQL, and automation
+- Exploring FinTech trends, cybersecurity basics, and practical uses of AI
+- Creating projects that connect financial processes with technology
 
 ---
 
 ## 📂 Featured Projects
 
-- [PythonPractice](https://github.com/ShieldQuest/PythonPractice) — Early academic exercises and programming explorations
-- [Python_Financial_Services](https://github.com/ShieldQuest/Python_Financial_Services) — Foundational tools for finance automation and analysis
-- More projects coming soon—expanding into financial modeling, programming, and automation
+- [PythonPractice](https://github.com/ShieldQuest/PythonPractice) – Early programming exercises and fundamentals
+- [Python_Financial_Services](https://github.com/ShieldQuest/Python_Financial_Services) – Intro tools for financial automation and analysis
+- More projects coming soon, including financial modeling, automation scripts, and Java coursework
 
 ---
 
 ## 🧭 About Me
 
-- Motivated self-learner with a commitment to continuous growth
-- Analytical thinker driven by curiosity and practical impact
-- Focused on bridging technology with strategic business value
+- Self-motivated learner dedicated to continuous improvement
+- Analytical thinker shaped by hands-on banking experience
+- Enjoys breaking down complex problems into clear, workable steps
+- Interested in using technology to support smart business decisions
 
 ---
 
