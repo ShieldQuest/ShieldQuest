@@ -22,7 +22,7 @@ FinTech and IT student exploring how technology, finance, and data intersect to 
 ## 🛠️ Skills & Tools
 
 **Languages:** Java, Python, SQL  
-**Tools:** Eclipse, VS Code, Git, GitHub  
+**Tools:** Eclipse IDE, GitHub  
 **Interests:** FinTech automation, data analysis, backend logic, and financial decision support
 
 ---
