@@ -13,17 +13,7 @@ FinTech and IT student exploring how technology, finance, and data intersect to 
 
 - Advancing through CompTIA certifications and college IT coursework
 - Building skills in Java, Python, SQL, and basic automation
-- Developing secure and efficient programming habits
-- Creating small financial tools and OOP-based applications
-- Organizing my work as I prepare larger projects for publication
-
----
-
-## 🛠️ Skills & Tools
-
-**Languages:** Java, Python, SQL  
-**Tools:** Eclipse IDE, GitHub  
-**Interests:** FinTech automation, data analysis, backend logic, and financial decision support
+- Creating financial tools and OOP-based applications
 
 ---
 
@@ -31,15 +21,6 @@ FinTech and IT student exploring how technology, finance, and data intersect to 
 
 I'm learning and experimenting with different technologies.  
 As my skills grow and my work becomes more structured, I plan to publish selected projects that reflect my progress and development style.
-
----
-
-## 🧭 About Me
-
-- IT student transitioning from five years in banking
-- Analytical thinker with hands-on financial experience
-- Skilled at breaking down real problems into clear, workable steps
-- Motivated to use technology to improve financial decision-making
 
 ---
 
