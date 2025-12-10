@@ -17,13 +17,6 @@ FinTech and IT student exploring how technology, finance, and data intersect to 
 
 ---
 
-## 📂 Projects
-
-I'm learning and experimenting with different technologies.  
-As my skills grow and my work becomes more structured, I plan to publish selected projects that reflect my progress and development style.
-
----
-
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Frobrt--alv-blue?logo=linkedin)](https://linkedin.com/in/robrt-alv)
