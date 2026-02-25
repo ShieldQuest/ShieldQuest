@@ -1,8 +1,3 @@
-<!-- 🦸 Banner -->
-<p align="center">
-  <img src="https://github.com/ShieldQuest/ShieldQuest/blob/main/Banner%20-%20Dec%207%2C%202025%2C%2001_44_27%20AM.png?raw=true" width="700" />
-</p>
-
 ---
 
 ## Application Development Student | Financial Operations Background
