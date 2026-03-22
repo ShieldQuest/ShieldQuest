@@ -1,4 +1,4 @@
-# Application Development Student | Financial Operations Background
+# Application Development Student | Financial Background
 
 I am currently pursuing a **B.A.S. in Information Systems Technology (Application Development)** at **Florida State College at Jacksonville (FSCJ)**, expected to graduate on **Fall 2027**.
 
