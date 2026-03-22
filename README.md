@@ -1,20 +1,18 @@
----
+# Application Development Student | Financial Operations Background
 
-## Application Development Student | Financial Operations Background
+I am currently pursuing a **B.A.S. in Information Systems Technology (Application Development)** at **Florida State College at Jacksonville (FSCJ)**, expected to graduate on **Fall 2027**.
 
-Application Development student with professional experience in credit handling, fraud review, bureau disputes, and accounts receivable. Worked in regulated banking environments where accuracy, documentation, and cross-system data verification were critical.
+I previously earned a **B.A. in Psychology in Puerto Rico** and bring **5+ years of experience in banking and financial operations**, including:
+- Credit dispute processing
+- Fraud review and investigation support
+- Billing analysis
+- Cross-system documentation and verification
 
-Previously earned a B.A. in Psychology (2015) with a strong interest in philosophy, which strengthened my analytical thinking, attention to behavior patterns, and structured problem-solving skills that I now apply to software development.
-
----
-
-## Current Focus
-
-- Completing a B.A.S. in Information Systems Technology (Application Development) - Expected Fall 2027  
-- Seeking an internship or entry-level position to grow as a technician and developer  
-- Building strong foundations in Java, OOP, and SQL  
-- Expanding knowledge in A.I., including responsible use, prompt design, and practical integration  
-- Developing skills in cybersecurity, system protection, and secure access practices  
+More recently, I have been expanding my technical experience through:
+- IT coursework in application development
+- Home network and Windows system security projects
+- Mobile device protection and access control practices
+- A growing GitHub portfolio documenting work in **Java, Python, and SQL**
 
 ---
 
