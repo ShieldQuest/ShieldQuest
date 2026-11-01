@@ -1,12 +1,7 @@
 # Application Development Student | Financial Background
 
-I am currently pursuing a **B.A.S. in Information Systems Technology (Application Development)** at **Florida State College at Jacksonville (FSCJ)**, expected to graduate on **Fall 2027**.
-
-I previously earned a **B.A. in Psychology in Puerto Rico** and bring **5+ years of experience in banking and financial operations**, including:
-- Credit dispute processing
-- Fraud review and investigation support
-- Billing analysis
-- Cross-system documentation and verification
+I'm currently pursuing a **B.A.S. in Information Systems Technology (Application Development)**
+I previously earned a **B.A. in Psychology** and with **5+ years of experience in banking and financial operations**
 
 More recently, I have been expanding my technical experience through:
 - IT coursework in application development
